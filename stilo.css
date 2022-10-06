@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(132, 241, 146);
+}
+
+.auto {
+    background-color: cadetblue;
+    margin: 15px;
+    padding: 6px;
+    border: 2px solid aquamarine;
+
+}
+.auto span{
+    color: rgb(21, 255, 0);
+    font-size: 1.7em;
+    font-weight: 900;
+}

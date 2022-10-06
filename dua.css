@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    .conteti{
+    background-color: rgb(143, 96, 190);
+    margin: 6px;
+    padding: 2.25px;
+    border-bottom: 2px solid red;
+    display: flex;
+    justify-content: center;
+}
+.foto{
+    justify-content: center;
+    
+}
