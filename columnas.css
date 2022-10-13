@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado {
+    background-color: cadetblue;
+    text-align: center;
+    border-bottom: 2px solid rgb(57, 0, 163);
+}
+
+.colores {
+    display: flex;
+    height: 100vh;
+
+}
+
+.c1 {
+    background-color: rgb(100, 0, 0);
+    text-align: center;
+}
+
+.c2 {
+    background-color: rgb(109, 0, 22);
+    text-align: center;
+}
+
+.c3 {
+    background-color: rgb(119, 0, 0);
+
+    text-align: center;
+}
+
+.c4 {
+    background-color: rgb(131, 0, 0);
+    text-align: center;
+}
+
+.c5 {
+    background-color: rgb(141, 0, 0);
+    text-align: center;
+}
+
+.c6 {
+    background-color: rgb(150, 0, 0);
+    text-align: center;
+}
+.tam{
+    width: 16.7vw;
+}
